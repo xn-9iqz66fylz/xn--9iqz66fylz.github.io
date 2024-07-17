@@ -7,6 +7,7 @@ author:     GZ-920
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
+	- C++
 
 ---
 
