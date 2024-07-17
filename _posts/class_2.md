@@ -5,9 +5,7 @@ subtitle:   By_哔哩哔哩@瓜子920
 date:       2024-07-17
 author:     GZ
 header-img: img/post-bg-debug.png
-catalog: true
-tags:
-  - C++
+catalog: false
 ---
 # 课程源码
 ## 源码
