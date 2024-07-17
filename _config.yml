@@ -7,7 +7,7 @@ description: "酷安、哔哩哔哩@瓜子920."
 keyword: "GZ, GZ Blog, 瓜子920博客, GZ-920, 酷安瓜子920, 哔哩哔哩瓜子920, C++, 刷机"
 url: "http://GZ-920.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/GZ-920/GZ-920.github.io/tree/master" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
